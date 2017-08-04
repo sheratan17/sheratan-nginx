@@ -1,4 +1,4 @@
-# Oniichan-NGINX
+# Sheratan-NGINX
 
 NGINX yang digunakan di [sheratan.web.id](http://sheratan.web.id) dengan compile:
 
