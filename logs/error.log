@@ -1,0 +1,19 @@
+2017/08/05 06:53:48 [emerg] 4371#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/05 06:53:48 [emerg] 4371#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/05 06:53:48 [emerg] 4371#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/05 06:53:48 [emerg] 4371#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/05 06:53:48 [emerg] 4371#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/05 06:53:48 [emerg] 4371#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/05 06:53:48 [emerg] 4371#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/05 06:53:48 [emerg] 4371#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/05 06:53:48 [emerg] 4371#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/05 06:53:48 [emerg] 4371#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/05 06:53:48 [emerg] 4371#0: still could not bind()
+2017/08/05 07:06:54 [error] 4540#0: *6 open() "/opt/nginx/html/asd" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /asd HTTP/1.1", host: "sheratan.web.id"
+2017/08/05 07:07:59 [error] 4602#0: *2 open() "/opt/nginx/html/asd" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /asd HTTP/1.1", host: "sheratan.web.id"
+2017/08/05 07:15:51 [crit] 4602#0: *107 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 192.175.111.254, server: 0.0.0.0:443
+2017/08/05 07:15:51 [crit] 4602#0: *108 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 192.175.111.254, server: 0.0.0.0:443
+2017/08/05 07:22:39 [crit] 4664#0: *99 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 192.175.111.254, server: 0.0.0.0:443
+2017/08/05 07:22:40 [crit] 4664#0: *100 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 192.175.111.254, server: 0.0.0.0:443
+2017/08/05 07:34:51 [error] 4742#0: *1 open() "/var/www/html/icons/openlogo-75.png" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /icons/openlogo-75.png HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/05 07:34:51 [error] 4742#0: *1 open() "/var/www/html/404.html" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /icons/openlogo-75.png HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
