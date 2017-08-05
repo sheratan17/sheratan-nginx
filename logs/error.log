@@ -35,3 +35,6 @@
 2017/08/05 22:49:42 [error] 8688#0: *25 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 204.187.14.74, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id"
 2017/08/05 22:51:26 [crit] 8688#0: *235 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 64.41.200.106, server: 0.0.0.0:443
 2017/08/05 22:51:27 [crit] 8688#0: *236 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 64.41.200.106, server: 0.0.0.0:443
+2017/08/05 22:58:55 [error] 8688#0: *328 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 204.187.14.75, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id"
+2017/08/05 22:58:55 [error] 8688#0: *328 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 204.187.14.75, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id"
+2017/08/05 23:53:14 [error] 8777#0: *18 open() "/var/www/html/artikel/index.html" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /artikel/index.html HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
