@@ -38,3 +38,4 @@
 2017/08/05 22:58:55 [error] 8688#0: *328 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 204.187.14.75, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id"
 2017/08/05 22:58:55 [error] 8688#0: *328 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 204.187.14.75, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id"
 2017/08/05 23:53:14 [error] 8777#0: *18 open() "/var/www/html/artikel/index.html" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /artikel/index.html HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/06 00:58:54 [warn] 9758#0: "ssl_stapling" ignored, host not found in OCSP responder "ocsp.int-x3.letsencrypt.org" in the certificate "/etc/letsencrypt/live/sheratan.web.id/fullchain.pem"

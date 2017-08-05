@@ -488,3 +488,5 @@
 192.175.111.254 - - [06/Aug/2017:00:11:37 +0700] "GET / HTTP/1.1" 200 1869 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
 178.79.138.22 - - [06/Aug/2017:00:12:06 +0700] "GET / HTTP/1.0" 301 178 "-" "-"
 178.79.138.22 - - [06/Aug/2017:00:12:06 +0700] "OPTIONS / HTTP/1.0" 400 264 "-" "-"
+103.28.12.88 - - [06/Aug/2017:01:00:18 +0700] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+103.28.12.88 - - [06/Aug/2017:01:08:03 +0700] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
