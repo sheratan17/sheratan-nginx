@@ -6,7 +6,7 @@ NGINX yang digunakan di [sheratan.web.id](http://sheratan.web.id) dengan compile
 
 sederhana yak?
 
-Dibangun di Debian 8 x64
+Dibangun di Debian 9 x64
 
 Gunakan dengan resiko sendiri!
 
