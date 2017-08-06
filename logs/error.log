@@ -39,3 +39,85 @@
 2017/08/05 22:58:55 [error] 8688#0: *328 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 204.187.14.75, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id"
 2017/08/05 23:53:14 [error] 8777#0: *18 open() "/var/www/html/artikel/index.html" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /artikel/index.html HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
 2017/08/06 00:58:54 [warn] 9758#0: "ssl_stapling" ignored, host not found in OCSP responder "ocsp.int-x3.letsencrypt.org" in the certificate "/etc/letsencrypt/live/sheratan.web.id/fullchain.pem"
+2017/08/06 01:32:41 [error] 294#0: *30 open() "/var/www/html/Let's Encrypt & Nginx · Let's Secure Me_files/logo.png" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /Let's%20Encrypt%20&%20Nginx%20%C2%B7%20Let's%20Secure%20Me_files/logo.png HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/06 01:47:46 [error] 294#0: *48 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id"
+2017/08/06 01:52:07 [error] 294#0: *54 open() "/var/www/html/artikel/index.html" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /artikel/index.html HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/06 02:29:47 [error] 5063#0: *14 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/06 02:32:09 [error] 5063#0: *20 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 104.236.178.150, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/06 02:32:14 [error] 5063#0: *25 open() "/var/www/html/robots.txt" failed (2: No such file or directory), client: 104.236.122.37, server: sheratan.web.id, request: "GET /robots.txt HTTP/1.0", host: "sheratan.web.id"
+2017/08/06 02:32:15 [error] 5063#0: *24 open() "/var/www/html/sitemapindex.xml" failed (2: No such file or directory), client: 104.236.122.37, server: sheratan.web.id, request: "GET /sitemapindex.xml HTTP/1.0", host: "sheratan.web.id"
+2017/08/06 02:32:16 [error] 5063#0: *26 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 104.236.122.37, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id", referrer: "http://www.google.com"
+2017/08/06 02:32:16 [error] 5063#0: *28 open() "/var/www/html/sitemap_index.xml" failed (2: No such file or directory), client: 104.236.122.37, server: sheratan.web.id, request: "GET /sitemap_index.xml HTTP/1.0", host: "sheratan.web.id"
+2017/08/06 02:32:18 [error] 5063#0: *29 open() "/var/www/html/sitemap.xml.gz" failed (2: No such file or directory), client: 104.236.122.37, server: sheratan.web.id, request: "GET /sitemap.xml.gz HTTP/1.0", host: "sheratan.web.id"
+2017/08/06 02:32:19 [error] 5063#0: *30 open() "/var/www/html/robots.txt" failed (2: No such file or directory), client: 104.236.122.37, server: sheratan.web.id, request: "GET /robots.txt HTTP/1.0", host: "sheratan.web.id"
+2017/08/06 02:32:21 [error] 5063#0: *36 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 104.236.177.9, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/06 02:32:23 [error] 5063#0: *39 open() "/var/www/html/robots.txt" failed (2: No such file or directory), client: 104.236.122.37, server: sheratan.web.id, request: "GET /robots.txt HTTP/1.0", host: "sheratan.web.id"
+2017/08/06 02:38:31 [warn] 5288#0: conflicting server name "www.sheratan.web.id" on 0.0.0.0:80, ignored
+2017/08/06 02:43:20 [error] 5830#0: *1 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 103.28.13.196, server: 0.0.0.0:443
+2017/08/06 02:45:27 [warn] 5930#0: conflicting server name "www.sheratan.web.id" on 0.0.0.0:80, ignored
+2017/08/06 03:42:59 [error] 5932#0: *8 open() "/var/www/html/artikel/index.html" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /artikel/index.html HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/06 03:50:30 [warn] 6463#0: conflicting server name "www.sheratan.web.id" on 0.0.0.0:80, ignored
+2017/08/06 03:52:07 [error] 6465#0: *31 open() "/var/www/html/sitemap.xml" failed (2: No such file or directory), client: 104.236.158.24, server: sheratan.web.id, request: "GET /sitemap.xml HTTP/1.1", host: "sheratan.web.id", referrer: "http://sheratan.web.id/sitemap.xml"
+2017/08/06 03:52:08 [error] 6465#0: *34 open() "/var/www/html/sitemap.xml" failed (2: No such file or directory), client: 104.236.158.24, server: sheratan.web.id, request: "HEAD /sitemap.xml HTTP/1.1", host: "sheratan.web.id"
+2017/08/06 03:52:09 [error] 6465#0: *36 open() "/var/www/html/news-sitemap.xml" failed (2: No such file or directory), client: 104.236.158.24, server: sheratan.web.id, request: "GET /news-sitemap.xml HTTP/1.1", host: "sheratan.web.id", referrer: "http://sheratan.web.id/news-sitemap.xml"
+2017/08/06 03:52:10 [error] 6465#0: *37 open() "/var/www/html/news-sitemap.xml" failed (2: No such file or directory), client: 104.236.158.24, server: sheratan.web.id, request: "HEAD /news-sitemap.xml HTTP/1.1", host: "sheratan.web.id"
+2017/08/06 03:52:10 [error] 6465#0: *40 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 104.236.158.24, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id"
+2017/08/06 03:52:11 [error] 6465#0: *41 open() "/var/www/html/xmlsitemap.php" failed (2: No such file or directory), client: 104.236.158.24, server: sheratan.web.id, request: "GET /xmlsitemap.php HTTP/1.1", host: "sheratan.web.id", referrer: "http://sheratan.web.id/xmlsitemap.php"
+2017/08/06 03:52:12 [error] 6465#0: *42 open() "/var/www/html/xmlsitemap.php" failed (2: No such file or directory), client: 104.236.158.24, server: sheratan.web.id, request: "HEAD /xmlsitemap.php HTTP/1.1", host: "sheratan.web.id"
+2017/08/06 03:52:13 [error] 6465#0: *44 open() "/var/www/html/sitemap_index.xml" failed (2: No such file or directory), client: 104.236.158.24, server: sheratan.web.id, request: "GET /sitemap_index.xml HTTP/1.1", host: "sheratan.web.id", referrer: "http://sheratan.web.id/sitemap_index.xml"
+2017/08/06 03:52:14 [error] 6465#0: *45 open() "/var/www/html/sitemap_index.xml" failed (2: No such file or directory), client: 104.236.158.24, server: sheratan.web.id, request: "HEAD /sitemap_index.xml HTTP/1.1", host: "sheratan.web.id"
+2017/08/06 03:53:56 [error] 6465#0: *60 open() "/var/www/html/artikel/index.html" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /artikel/index.html HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/06 03:54:16 [error] 6465#0: *60 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/06 08:02:35 [error] 6465#0: *72 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id"
+2017/08/06 16:24:17 [error] 6465#0: *84 open() "/var/www/html/phpmyadmin" failed (2: No such file or directory), client: 115.29.166.101, server: sheratan.web.id, request: "GET /phpmyadmin HTTP/1.1", host: "sheratan.web.id", referrer: "http://103.28.13.196/phpmyadmin"
+2017/08/06 22:09:28 [error] 6465#0: *91 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/06 22:09:38 [error] 6465#0: *91 open() "/var/www/html/artikel/index.html" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /artikel/index.html HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/06 22:51:06 [error] 6465#0: *100 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/06 22:59:50 [error] 6465#0: *109 open() "/var/www/html/repositori.html" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /repositori.html HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/06 23:04:39 [crit] 6465#0: *543 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 192.175.111.254, server: 0.0.0.0:443
+2017/08/06 23:04:40 [crit] 6465#0: *547 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 192.175.111.254, server: 0.0.0.0:443
+2017/08/06 23:04:40 [crit] 6465#0: *549 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 64.41.200.107, server: 0.0.0.0:443
+2017/08/06 23:04:41 [crit] 6465#0: *552 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 64.41.200.107, server: 0.0.0.0:443
+2017/08/06 23:07:04 [warn] 15317#0: conflicting server name "www.sheratan.web.id" on 0.0.0.0:80, ignored
+2017/08/06 23:10:06 [crit] 15319#0: *210 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 64.41.200.107, server: 0.0.0.0:443
+2017/08/06 23:10:06 [crit] 15319#0: *211 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 64.41.200.107, server: 0.0.0.0:443
+2017/08/07 00:19:03 [crit] 15319#0: *475 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 64.41.200.108, server: 0.0.0.0:443
+2017/08/07 00:19:04 [crit] 15319#0: *476 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 64.41.200.108, server: 0.0.0.0:443
+2017/08/07 01:30:15 [crit] 15319#0: *736 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 64.41.200.106, server: 0.0.0.0:443
+2017/08/07 01:30:15 [crit] 15319#0: *737 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 64.41.200.106, server: 0.0.0.0:443
+2017/08/07 02:21:25 [warn] 249#0: conflicting server name "www.sheratan.web.id" on 0.0.0.0:80, ignored
+2017/08/07 02:29:40 [error] 280#0: *1 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/07 02:37:52 [error] 280#0: *3 open() "/var/www/html/upgrade_deb8_ke_deb9.html" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /upgrade_deb8_ke_deb9.html HTTP/1.1", host: "sheratan.web.id"
+2017/08/07 02:37:52 [error] 280#0: *3 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /favicon.ico HTTP/1.1", host: "sheratan.web.id", referrer: "https://sheratan.web.id/upgrade_deb8_ke_deb9.html"
+2017/08/07 02:56:40 [warn] 19805#0: conflicting server name "www.sheratan.web.id" on 0.0.0.0:80, ignored
+2017/08/07 02:56:40 [emerg] 19805#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/07 02:56:40 [emerg] 19805#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/07 02:56:40 [emerg] 19805#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/07 02:56:40 [emerg] 19805#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/07 02:56:40 [emerg] 19805#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/07 02:56:40 [emerg] 19805#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/07 02:56:40 [emerg] 19805#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/07 02:56:40 [emerg] 19805#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/07 02:56:40 [emerg] 19805#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/07 02:56:40 [emerg] 19805#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/07 02:56:40 [emerg] 19805#0: still could not bind()
+2017/08/07 02:56:50 [warn] 19895#0: conflicting server name "www.sheratan.web.id" on 0.0.0.0:80, ignored
+2017/08/07 02:56:50 [emerg] 19895#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/07 02:56:50 [emerg] 19895#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/07 02:56:50 [emerg] 19895#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/07 02:56:50 [emerg] 19895#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/07 02:56:50 [emerg] 19895#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/07 02:56:50 [emerg] 19895#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/07 02:56:50 [emerg] 19895#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/07 02:56:50 [emerg] 19895#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/07 02:56:50 [emerg] 19895#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/08/07 02:56:50 [emerg] 19895#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2017/08/07 02:56:50 [emerg] 19895#0: still could not bind()
+2017/08/07 02:57:09 [warn] 19897#0: conflicting server name "www.sheratan.web.id" on 0.0.0.0:80, ignored
+2017/08/07 02:57:09 [notice] 19897#0: signal process started
+2017/08/07 02:57:11 [warn] 19899#0: conflicting server name "www.sheratan.web.id" on 0.0.0.0:80, ignored
+2017/08/07 02:57:11 [notice] 19899#0: signal process started
+2017/08/07 02:57:11 [error] 19899#0: open() "/opt/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/08/07 02:57:30 [warn] 19903#0: conflicting server name "www.sheratan.web.id" on 0.0.0.0:80, ignored
+2017/08/07 02:57:44 [error] 19905#0: *1 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 103.28.12.88, server: sheratan.web.id, request: "GET /favicon.ico HTTP/2.0", host: "sheratan.web.id", referrer: "https://sheratan.web.id/"
+2017/08/07 02:58:38 [notice] 19932#0: signal process started
