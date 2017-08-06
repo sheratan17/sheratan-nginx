@@ -14,6 +14,6 @@ Catatan: Versi di buat dengan bentuk "Build X.Y.z"
 
 `git commit -m "build 1"`
 
-Gunakan `/opt/sbin/nginx` untuk memulai atau berhenti
+Gunakan `/opt/nginx/sbin/nginx` untuk memulai atau berhenti
 
 [init.d tidak dapat digunakan di Debian 9](https://github.com/sheratan17/sheratan-nginx/issues/1)
