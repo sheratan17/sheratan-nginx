@@ -6,7 +6,7 @@ NGINX yang digunakan di [sheratan.web.id](http://sheratan.web.id) dengan compile
 
 sederhana yak?
 
-Dibangun di Debian 8 x64
+Dibangun di Debian 9 x64
 
 Gunakan dengan resiko sendiri!
 
@@ -14,4 +14,6 @@ Catatan: Versi di buat dengan bentuk "Build X.Y.z"
 
 `git commit -m "build 1"`
 
-Gunakan `/opt/sbin/nginx` untuk memulai atau berhenti
+Gunakan `/opt/nginx/sbin/nginx` untuk memulai atau berhenti
+
+[init.d tidak dapat digunakan di Debian 9](https://github.com/sheratan17/sheratan-nginx/issues/1)
